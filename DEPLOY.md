@@ -57,7 +57,11 @@ After 1–3 minutes your site is live at:
 
 **`https://YOUR_GITHUB_USERNAME.github.io/invasion-number-vegetables/`**
 
-Use that URL in Steam’s **Website** field when you are ready.
+**Live site (current):** https://vegmanbook.github.io/invasion-number-vegetables/  
+**Repo:** `vegmanbook/invasion-number-vegetables`  
+(Old `frankbatty` Pages URL unpublished — do not use.)
+
+Use the live URL in Steam’s **Website** field (Publish store changes after editing).
 
 ## Step 4 — When Steam store page exists
 
